@@ -6,7 +6,7 @@ mini_porject_MLops_2023
 * 협업 툴: Google docs, Confluence, Slack
 * 기술 스택: Python, GCP bigquery, Google Colab, jupyter notebook
 * 프로젝트 기간: 2023.06.12-2023.06.23
-* ![image](https://github.com/SilverWithA/mini_project_MLops/assets/92441328/21d2fc21-bc00-4477-b289-ead8eaf29c1b)
+![image](https://github.com/SilverWithA/mini_project_MLops/assets/92441328/21d2fc21-bc00-4477-b289-ead8eaf29c1b)
 
 
 

@@ -44,3 +44,5 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/%EB%AF
 ## <프로젝트 회고>
 
 * 정은아: https://re-decor5213.tistory.com/39
+* 이상훈:
+https://github.com/Hoonscucci/play_data_mini_project2/blob/main/mini_project2_Rogistic_Regression/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%9A%8C%EA%B3%A0.ipynb

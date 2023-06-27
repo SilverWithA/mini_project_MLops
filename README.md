@@ -1,7 +1,7 @@
 # mini_porject_MLops
 mini_porject_MLops_2023
 
-* 프로젝트 기간: 2023.06.13-2023.06.23
+* 프로젝트 기간: 2023.06.12-2023.06.23
 * 프로젝트 데이터: https://www.kaggle.com/competitions/coupon-purchase-prediction/data
 * 협업 툴: Google docs, Confluence, Slack
 * 기술 스택: Python, GCP bigquery, Google Colab, jupyter notebook
@@ -10,6 +10,7 @@ mini_porject_MLops_2023
 
 ## <프로젝트 개요>
 
+https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf
 
 
 
@@ -34,5 +35,8 @@ mini_porject_MLops_2023
 
 ## <프로젝트 정리>
 
+https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_4%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf
 
 ## <프로젝트 회고>
+
+* 정은아: https://re-decor5213.tistory.com/39

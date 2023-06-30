@@ -157,6 +157,6 @@
   <li>김지현: <a href="https://kiiimji96.tistory.com/53">https://kiiimji96.tistory.com/53</a></li>
 </ul>
 
-<h2>참고분헌</h2>
+<h2>참고문헌</h2>
 <li>[1] kairos03,"GCP AI-Platform에서 딥러닝 학습하기", https://gist.github.com/kairos03/d40d5d9a3fc97e3ee83c4d4f863434db</li>
 

@@ -23,6 +23,10 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
 ## 1. MLops
 ### 데이터 베이스 및 파이프라인 구성
 - 담당: 김범기
+- 소비 패턴 변화가 상대적으로 예민한 쇼핑 플랫폼 특성 상, 상대적으로 모델의 수명 주기가 짧을 것으로 판단했습니다.
+- 반복 모델 학습 및 배포가 용이한 파이프 라인을 만들기로 하고, 첫 구축 과정으로 MLOps : 0 단계로 설계하게 되었습니다.
+- 자세한 내용은 첨부한 아래 링크에서 확인 가능합니다.
+- 링크 : https://beomki-kim.tistory.com/13
   
 ## 2. 분류 모델
 ### 로지스틱 회귀

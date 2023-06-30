@@ -38,7 +38,10 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
 ### Xgboost 및 LightGBM
 - 담당: 김지현
 
-### ANN(인공신경망): 
+### ANN(인공신경망)
+
+![image](https://github.com/SilverWithA/mini_project_MLops/assets/92441328/bad9cbe3-11f5-4cef-aec9-011df669b242)
+
 https://zrr.kr/U4nP 
 담당: 정은아
 #### 1. 데이터 전처리 

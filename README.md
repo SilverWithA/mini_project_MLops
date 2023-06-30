@@ -39,8 +39,8 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
 - 담당: 김지현
 
 ### ANN(인공신경망): 
-- https://zrr.kr/U4nP 
-- 담당: 정은아
+https://zrr.kr/U4nP 
+담당: 정은아
 #### 1. 데이터 전처리 
 - LabelEncode()
 - StandardScaler()
@@ -52,7 +52,6 @@ input - Embedding Layer - Dense Layer_hidden1 - Dense Layer_hidden2 - output
 
 
 ## <프로젝트 정리>
-
 https://zrr.kr/fteH
 
 ## <프로젝트 회고>

@@ -49,8 +49,7 @@ https://zrr.kr/fteH
 ## <프로젝트 회고>
 
 * 정은아: https://re-decor5213.tistory.com/39
-* 이상훈:
-https://github.com/Hoonscucci/play_data_mini_project2/blob/main/mini_project2_Rogistic_Regression/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%9A%8C%EA%B3%A0.ipynb
-* 이영직:https://github.com/lee-young-jik/remembrance/blob/f17cfe8e477e1cec6cb08e9228dcd864a044ff1a/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EB%AF%B8%EB%8B%88_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_4%EC%A1%B0_%ED%9A%8C%EA%B3%A0_%EC%9D%B4%EC%98%81%EC%A7%81%20(2).ipynb
+* 이상훈: https://zrr.kr/yLSB
+* 이영직: https://zrr.kr/ePlf
 * 김범기 : https://url.kr/jiwqsz
 * 김지현 : https://kiiimji96.tistory.com/53

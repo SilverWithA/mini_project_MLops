@@ -38,8 +38,15 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
 ### Xgboost 및 LightGBM
 - 담당: 김지현
 
-### ANN(인공신경망)
-- 담당: 정은아
+### ANN(인공신경망) - 담당: 정은아
+#### 1. 데이터 전처리 
+- LabelEncode()
+- StandardScaler()
+- Embedding Layer
+#### 2. 모델 구성 및 학습, 하이퍼 파라미터 튜닝
+- 모델의 구성
+input - Embedding Layer - Dense Layer_hidden1 - Dense Layer_hidden2 - output 
+#### 3. 정리
 
 
 ## <프로젝트 정리>

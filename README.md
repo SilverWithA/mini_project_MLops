@@ -1,25 +1,11 @@
 <h1>mini_porject_MLOps_2023</h1>
+<h2>프로젝트 개요</h2>
 
-<h2>프로젝트 데이터</h2>
-<p><a href="https://www.kaggle.com/competitions/coupon-purchase-prediction/data">https://www.kaggle.com/competitions/coupon-purchase-prediction/data</a></p>
+<img src="https://github.com/SilverWithA/mini_project_MLops/assets/92441328/9defd77a-47bb-4539-a6d7-9f9d4af31460" alt="project overview">
 
-<h2>협업 툴</h2>
-<p>Google docs, Confluence, Slack</p>
-
-<h2>기술 스택</h2>
-<p>개발언어: Python</p>
-<p>워크벤치: Google Colab, jupyter notebook</p>
-<p>스토리지 : Google Cloud Storage, BigQuery</p>
-<p>데이터 웨어하우스 : BigQuery, Vertex AI_Dataset</p>
-<p>ML 플랫폼 : Vertex AI</p>
-
-<h2>프로젝트 기간</h2>
-<p>2023.06.12-2023.06.23</p>
-
-<img src="https://github.com/SilverWithA/mini_project_MLops/assets/92441328/21d2fc21-bc00-4477-b289-ead8eaf29c1b" alt="project diagram">
+<p><a href="https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf">https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf</a></p>
 
 <h2>기여자 (Contributors) ✨</h2>
-
 <table>
   <tr>
     <td align="center">
@@ -80,13 +66,39 @@
   </tr>
 </table>
 
+<h2>프로젝트 기간</h2>
+<p>2023.06.12-2023.06.23</p>
 
-<h2>프로젝트 개요</h2>
+<img src="https://github.com/SilverWithA/mini_project_MLops/assets/92441328/21d2fc21-bc00-4477-b289-ead8eaf29c1b" alt="project diagram">
 
-<img src="https://github.com/SilverWithA/mini_project_MLops/assets/92441328/9defd77a-47bb-4539-a6d7-9f9d4af31460" alt="project overview">
+<h2>협업 툴</h2>
+<p>Google docs, Confluence, Slack</p>
 
-<p><a href="https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf">https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf</a></p>
+<h2>기술 스택</h2>
+<p>개발언어: Python</p>
+<p>워크벤치: Google Colab, jupyter notebook</p>
+<p>스토리지 : Google Cloud Storage, BigQuery</p>
+<p>데이터 웨어하우스 : BigQuery, Vertex AI_Dataset</p>
+<p>ML 플랫폼 : Vertex AI</p>
 
+<h2>프로젝트 데이터</h2>
+
+![image](https://github.com/SilverWithA/mini_project_MLops/assets/37844020/14e31d79-b38d-485f-aeed-131a3e039d1b)
+
+<h2>Coupon Purchase Prediction 파일 설명</h2>
+<ul>
+  <li>데이터 세트는 각 엔터티에 대해 해시된 ID 열이 있는 관계형 형식을 가집니다.</li>
+  <li>user_list.csv: 데이터 세트의 사용자 마스터 목록</li>
+  <li>coupon_list_train.csv: 훈련 세트에 포함되는 쿠폰의 마스터 목록</li>
+  <li>coupon_list_test.csv: 테스트 세트에 포함되는 쿠폰의 마스터 목록입니다. 대회 예측은 이 310개 쿠폰에서만 가져와야 합니다. 테스트 세트 기간 동안 훈련 세트에서 구매된 쿠폰을 예측하면 점수를 받을 수 없습니다.</li>
+  <li>coupon_visit_train.csv: 훈련 세트 시간 동안 사용자가 쿠폰을 둘러보는 로그입니다. 테스트 세트 기간에는 이 테이블이 제공되지 않습니다.</li>
+  <li>coupon_detail_train.csv: 훈련 세트 시간 동안 사용자가 쿠폰을 구매하는 로그입니다. 테스트 세트 기간에는 이 테이블이 제공되지 않습니다.</li>
+  <li>coupon_area_train.csv: 훈련 세트 쿠폰의 상품 광고 지역</li>
+  <li>coupon_area_test.csv: 테스트 세트 쿠폰의 상품 광고 지역</li>
+  <li>sample_submission.csv: 예측 결과의 올바른 형식을 보여주는 샘플 파일</li>
+  <li>documentation.zip: 엔터티 관계 다이어그램과 영어 번역이 포함된 엑셀 파일 아카이브</li>
+</ul>
+<p><a href="https://www.kaggle.com/competitions/coupon-purchase-prediction/data">https://www.kaggle.com/competitions/coupon-purchase-prediction/data</a></p>
 
 <h2>프로젝트 내용</h2>
 
@@ -135,6 +147,7 @@
 <p><a href="https://zrr.kr/fteH">https://zrr.kr/fteH</a></p>
 
 <h2>프로젝트 회고</h2>
+
 
 <ul>
   <li>정은아: <a href="https://re-decor5213.tistory.com/39">https://re-decor5213.tistory.com/39</a></li>

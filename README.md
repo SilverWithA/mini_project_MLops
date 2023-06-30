@@ -74,7 +74,7 @@ mini_porject_MLOps_2023
 </table>
 
 
-## <프로젝트 개요>
+## 프로젝트 개요
 ![image](https://github.com/SilverWithA/mini_project_MLops/assets/92441328/9defd77a-47bb-4539-a6d7-9f9d4af31460)
 
 https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf
@@ -82,7 +82,7 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
 
 
 
-## <프로젝트 내용>
+## 프로젝트 내용
 ## 1. MLOps
 ### 데이터 베이스 및 파이프라인 구성
 담당: 김범기
@@ -117,10 +117,10 @@ input - Embedding Layer - Dense Layer_hidden1 - Dense Layer_hidden2 - output
 #### 3. 정리
 
 
-## <프로젝트 정리>
+## 프로젝트 정리
 https://zrr.kr/fteH
 
-## <프로젝트 회고>
+## 프로젝트 회고
 
 * 정은아: https://re-decor5213.tistory.com/39
 * 이상훈: https://zrr.kr/yLSB

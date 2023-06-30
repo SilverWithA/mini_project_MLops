@@ -158,5 +158,5 @@
 </ul>
 
 <h2>참고분헌</h2>
-<li>[1] kairos03 , "GCP AI-Platform에서 딥러닝 학습하기", https://gist.github.com/kairos03/d40d5d9a3fc97e3ee83c4d4f863434db</li>
+<li>[1] kairos03,"GCP AI-Platform에서 딥러닝 학습하기", https://gist.github.com/kairos03/d40d5d9a3fc97e3ee83c4d4f863434db</li>
 

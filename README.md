@@ -7,7 +7,11 @@
 <p>Google docs, Confluence, Slack</p>
 
 <h2>기술 스택</h2>
-<p>Python, GCP bigquery, Google Colab, jupyter notebook</p>
+<p>개발언어: Python</p>
+<p>워크벤치: Google Colab, jupyter notebook</p>
+<p>스토리지 : Google Cloud Storage, BigQuery</p>
+<p>데이터 웨어하우스 : BigQuery, Vertex AI_Dataset</p>
+<p>ML 플랫폼 : Vertex AI</p>
 
 <h2>프로젝트 기간</h2>
 <p>2023.06.12-2023.06.23</p>

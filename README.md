@@ -1,5 +1,5 @@
-# mini_porject_MLops
-mini_porject_MLops_2023
+# mini_porject_MLOps
+mini_porject_MLOps_2023
 
 
 * 프로젝트 데이터: https://www.kaggle.com/competitions/coupon-purchase-prediction/data
@@ -20,7 +20,7 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
 
 
 ## <프로젝트 내용>
-## 1. MLops
+## 1. MLOps
 ### 데이터 베이스 및 파이프라인 구성
 담당: 김범기
 ![image](https://github.com/SilverWithA/mini_project_MLops/assets/37844020/99520411-4cdf-4d0a-a15d-9bd6a21a421e)

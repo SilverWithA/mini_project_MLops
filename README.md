@@ -44,7 +44,7 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
 
 ## <프로젝트 정리>
 
-https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_4%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf
+[https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_4%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf](https://zrr.kr/fteH)
 
 ## <프로젝트 회고>
 

@@ -8,7 +8,70 @@ mini_porject_MLOps_2023
 * 프로젝트 기간: 2023.06.12-2023.06.23
 ![image](https://github.com/SilverWithA/mini_project_MLops/assets/92441328/21d2fc21-bc00-4477-b289-ead8eaf29c1b)
 
+## 기여자 (Contributors) ✨
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/beomki-kim">
+        <img src="https://avatars.githubusercontent.com/u/37844020?v=4"width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>Beomki Kim</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/beomki-kim" title="Code">🏠</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SilverWithA">
+        <img src="https://avatars.githubusercontent.com/u/92441328?v=4"width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>silver a</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/SilverWithA" title="Code">🏠</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kjjh714">
+        <img src="https://avatars.githubusercontent.com/u/59947483?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>kjjh714</b>
+        </sub>
+      </a>
+      <br/>
+      <a href="https://github.com/kjjh714" title="Code">🏠</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hoonscucci">
+        <img src="https://avatars.githubusercontent.com/u/132039559?v=4"width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>Hoonscucci</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/Hoonscucci" title="Code">🏠</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lee-young-jik">
+        <img src="https://avatars.githubusercontent.com/u/91588673?v=4"width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>Young JIk LEE</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/lee-young-jik" title="Code">🏠</a>
+    </td>
+  </tr>
+</table>
 
 
 ## <프로젝트 개요>

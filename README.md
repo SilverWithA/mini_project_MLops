@@ -50,5 +50,5 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/%EB%AF
 * 정은아: https://re-decor5213.tistory.com/39
 * 이상훈:
 https://github.com/Hoonscucci/play_data_mini_project2/blob/main/mini_project2_Rogistic_Regression/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%9A%8C%EA%B3%A0.ipynb
-* 이영직:
+* 이영직:머신러닝_미니_프로젝트_4조_회고_이영직 (2).ipynb
 * 김범기 : https://url.kr/jiwqsz

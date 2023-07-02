@@ -118,6 +118,13 @@
 <p>담당: 이상훈</p>
 <img src ="https://github.com/SilverWithA/mini_project_MLops/assets/132039559/c3e0efe6-314e-4985-81b9-9db97b5b6ca4">
 
+<h5>1. 데이터 전처리</h5>
+<ul>
+  <li>LabelEncode()</li>
+  <li>StandardScaler()</li>
+  <li>OverSampling/li>
+</ul>
+
 링크 : https://url.kr/o2pzfi
 
 

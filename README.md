@@ -122,7 +122,7 @@
 <ul>
   <li>LabelEncode</li>
   <li>StandardScaler</li>
-  <li>OverSampling<</li>
+  <li>OverSampling</li>
 </ul>
 
 링크 : https://url.kr/o2pzfi

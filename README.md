@@ -120,9 +120,9 @@
 
 <h5>1. 데이터 전처리</h5>
 <ul>
-  <li>LabelEncode()</li>
-  <li>StandardScaler()</li>
-  <li>OverSampling/li>
+  <li>LabelEncode</li>
+  <li>StandardScaler</li>
+  <li>OverSampling<</li>
 </ul>
 
 링크 : https://url.kr/o2pzfi

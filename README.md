@@ -116,7 +116,7 @@
 
 <h4>로지스틱 회귀</h4>
 <p>담당: 이상훈</p>
-![미니프로젝트_4조_발표자료](https://github.com/SilverWithA/mini_project_MLops/assets/132039559/c3e0efe6-314e-4985-81b9-9db97b5b6ca4)
+![image](https://github.com/SilverWithA/mini_project_MLops/assets/132039559/c3e0efe6-314e-4985-81b9-9db97b5b6ca4)
 링크 : https://url.kr/o2pzfi
 
 

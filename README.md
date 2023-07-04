@@ -127,13 +127,31 @@
 
 링크 : https://url.kr/o2pzfi
 
-
   
 <h4>랜덤 포레스트</h4>
 <p>담당: 이영직</p>
+<br>
 
 <h4>Xgboost 및 LightGBM</h4>
 <p>담당: 김지현</p>
+<img src = "https://github.com/SilverWithA/mini_project_MLops/assets/59947483/5802f596-709a-4278-a4d3-9cfb4dfcf65f"> 
+
+<h5>1. 데이터 전처리</h5>
+<ul>
+  <li>LabelEncoder</li>
+  <li>StandardScaler</li>
+  <li>OverSampling(SMOTE 방법)</li>
+</ul>
+
+<h5> 2. 모델 학습 및 정확도, 변수 중요도 확인</h5>
+<ul>
+  <li>xgboost / 오버샘플링 후 xgboost</li>
+  <li>lightgbm / 오버샘플링 후 lightgbm</li>
+</ul>
+
+
+링크 : https://url.kr/kf6xj5
+<br>
 
 <h4>ANN(인공신경망)</h4>
 

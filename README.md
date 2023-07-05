@@ -128,11 +128,11 @@
 링크 : https://url.kr/o2pzfi
 
   
-<h4>랜덤 포레스트</h4>
+<h3>3. 랜덤 포레스트</h3>
 <p>담당: 이영직</p>
 <br>
 
-<h4>Xgboost 및 LightGBM</h4>
+<h3>4. Xgboost 및 LightGBM</h3>
 <p>담당: 김지현</p>
 <img src = "https://github.com/SilverWithA/mini_project_MLops/assets/59947483/5802f596-709a-4278-a4d3-9cfb4dfcf65f"> 
 
@@ -153,7 +153,7 @@
 링크 : https://url.kr/kf6xj5
 <br>
 
-<h4>ANN(인공신경망)</h4>
+<h3>5. ANN(인공신경망)</h3>
 
 <img src="https://github.com/SilverWithA/mini_project_MLops/assets/92441328/bad9cbe3-11f5-4cef-aec9-011df669b242" alt="ANN diagram">
 
@@ -170,7 +170,6 @@
   <li>모델의 구성</li>
   <p>input - Embedding Layer - Dense Layer_hidden1 - Dense Layer_hidden2 - output</p>
 </ul>
-<h5>3. 정리</h5>
 
 <h2>프로젝트 정리</h2>
 

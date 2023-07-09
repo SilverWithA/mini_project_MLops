@@ -130,6 +130,8 @@
   
 <h3>3. 랜덤 포레스트</h3>
 <p>담당: 이영직</p>
+![image](https://github.com/SilverWithA/mini_project_MLops/assets/91588673/30380ecc-3819-412a-a080-9ae66ea23ec5)
+
 <br>
 
 <h3>4. Xgboost 및 LightGBM</h3>

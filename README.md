@@ -141,6 +141,14 @@
   <li>StandardScaler</li>
   <li>상관관계 높은변수 제거를 통한 다중공선성 제거 </li>
 </ul>
+<h5>2. 모델 학습 진행</h5>
+<ul>
+  <li>스케일링만 진행 후 학습</li>
+  <li>상관관계가 높은 변수까지 제거 후 학습</li>
+</ul>
+
+링크: https://url.kr/a32udk
+<br>
 
 <h3>4. Xgboost 및 LightGBM</h3>
 <p>담당: 김지현</p>

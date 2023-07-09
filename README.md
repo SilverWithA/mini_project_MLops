@@ -135,6 +135,12 @@
 <img src = "https://github.com/SilverWithA/mini_project_MLops/assets/91588673/9cda8f10-c460-4d35-99b8-079c4d47e667"> 
 
 <br>
+<h5>1. 데이터 전처리</h5>
+<ul>
+  <li>LabelEncoder</li>
+  <li>StandardScaler</li>
+  <li>상관관계 높은변수 제거를 통한 다중공선성 제거 </li>
+</ul>
 
 <h3>4. Xgboost 및 LightGBM</h3>
 <p>담당: 김지현</p>

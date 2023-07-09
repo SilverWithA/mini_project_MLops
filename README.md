@@ -132,6 +132,8 @@
 <p>담당: 이영직</p>
 
 
+<img src = "https://github.com/SilverWithA/mini_project_MLops/assets/91588673/9cda8f10-c460-4d35-99b8-079c4d47e667"> 
+
 <br>
 
 <h3>4. Xgboost 및 LightGBM</h3>

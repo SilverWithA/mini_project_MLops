@@ -3,7 +3,6 @@
 
 <img src="https://github.com/SilverWithA/mini_project_MLops/assets/92441328/9defd77a-47bb-4539-a6d7-9f9d4af31460" alt="project overview">
 
-<p><a href="https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf">https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/confluence_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%941.pdf</a></p>
 
 <h2>기여자 (Contributors) ✨</h2>
 <table>
